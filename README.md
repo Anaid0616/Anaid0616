@@ -36,7 +36,7 @@
 </a>
 
 
-### 📈 My GitHub Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
