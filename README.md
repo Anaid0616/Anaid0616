@@ -1,6 +1,5 @@
 ## Hi there, I'm Diana Bergelin 👋
 
----
 
 ### About Me
 I’m currently studying **Front-End Development** at **Noroff School of Technology and Digital Media**. 
