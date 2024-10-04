@@ -1,4 +1,4 @@
-## Hi there, I'm Diana Bergelin 👋
+# Hi there, I'm Diana Bergelin 👋
 
 
 ### About Me
