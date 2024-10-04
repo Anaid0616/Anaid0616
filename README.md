@@ -6,6 +6,7 @@
 - 💻 I have a deep passion for the creative aspects of front-end development, where I can design, build, and bring visual beauty to life through code.
 - 🌱 Currently learning **Javasript** and expanding my skills in **APIs**.
 - 🌎 Based in Stockholm, I'm always eager to explore new technologies.
+- 🎓 Hairdresser Journeyman Certificate and Master Hairdresser Certificate
 
 ### 🎨 Hobbies & Interests
 - ✏️ Drawing and painting
