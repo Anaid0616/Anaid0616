@@ -34,7 +34,7 @@
 <a href="mailto:diana.bergelin@live.se">
   <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
 </a>
-
+<br>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
