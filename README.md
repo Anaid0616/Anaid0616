@@ -22,8 +22,5 @@ I’m currently studying **Front-End Development** at **Noroff School of Technol
 ---
 
 
-![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical)
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anaid0616&theme=radical)
+![Diana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anaid0616&theme=radical)
 
