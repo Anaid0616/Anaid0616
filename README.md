@@ -27,15 +27,16 @@
 
 
 ### 📫 Get in Touch
-
+<p>
 <a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;
 <a href="mailto:diana.bergelin@live.se">
   <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
 </a>
+</p>
 
-
+<br>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
