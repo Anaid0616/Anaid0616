@@ -44,5 +44,5 @@
 - 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
   - A website for a fictional museum aimed at children, with interactive and educational exhibits.
  
-  - ✍️ **[Project Exam: Deleine ](https://anaid0616.github.io/project-exam1/)**
+- ✍️ **[Project Exam: Deleine ](https://anaid0616.github.io/project-exam1/)**
   - A blogsite for a fictional client that allows users to register, login, create, update and delete blog posts. View a carousel with the newest posts and thumbnail grid for all blog posts.
