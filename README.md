@@ -7,7 +7,7 @@
 🎨 I've always been a creative person, with a passion for drawing, painting, and creating. 
 My journey with coding began during my first year at  the gymnasium, where I studied HTML and CSS as part of an IT and sports program. Though I eventually switched to an economics track due to the new school's challenges, my interest in creativity remained strong, leading me to take extra courses in art and photography.
 
-🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I've enjoyed bringing creativity to my work as a hairdresser for many years, i have Hairdresser Journeyman Certificate and Master Hairdresser Certificate. But I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
+🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed since 2013 and I have hairdresser journeyman certificate and master hairdresser certificate. I've enjoyed bringing creativity to my work as a hairdresser for many years, but I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
 
 📸 In my free time, I love drawing, photography, interior design, renovating my house, and decorating for events. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
 
