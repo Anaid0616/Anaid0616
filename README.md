@@ -18,6 +18,8 @@ My journey with coding began during my first year at high school, where I studie
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
@@ -38,6 +40,12 @@ My journey with coding began during my first year at high school, where I studie
 </p>
 
 ## 🚀 My Projects
+
+- 🛍️ **[React Ecom Store: Vibity](https://vibitystore.netlify.app/)**  
+  An react eCommerce store with product search filtering, Zustand cart state, and checkout.
+
+  - 🛎️ **[Semester Project 2: Auction House](https://semester-project2-diana.netlify.app/)**  
+  A fully responsive auction website built with HTML, CSS, Tailwind and JavaScript. Users can browse products from an API, filter listings, view bidding history, and place bids on other users' auctions.
 
 - 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
