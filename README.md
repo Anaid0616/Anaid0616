@@ -39,8 +39,8 @@ My journey with coding began during my first year at high school, where I studie
 
 <br>
 
-
 ## 🚀 My Projects
+
 - 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
   
