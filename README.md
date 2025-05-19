@@ -9,7 +9,7 @@ My journey with coding began during my first year at  the gymnasium, where I stu
 
 🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed since 2013 and I have hairdresser journeyman certificate and master hairdresser certificate. I've enjoyed bringing creativity to my work as a hairdresser for many years, but I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
 
-📸 In my free time, I love photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
+📸 In my free time, I love drawing and photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
 
 
 
