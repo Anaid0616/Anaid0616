@@ -7,7 +7,7 @@
 🎨 I've always been a creative person, with a passion for drawing, painting, and creating. 
 My journey with coding began during my first year at high school, where I studied HTML and CSS as part of an IT and sports program. Though I eventually switched to an economics track, my interest in creativity remained strong, leading me to take extra courses in art and photography.
 
-🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed and enjoyed bringing creativity to my work as a hairdresser for many years, but I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
+🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed and enjoyed bringing creativity to my work for many years, but I'm now ready for a new chapter. 
 
 📸 In my free time, I love photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
 
