@@ -47,7 +47,7 @@ My journey with coding began during my first year at high school, where I studie
 - 🛎️ **[Semester Project 2: Auction House](https://semester-project2-diana.netlify.app/)**  
   - Auction website built with HTML, CSS, Tailwind and JavaScript. Users can filter listings, view bidding history, and place bids on other users' auctions.
 
-- 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
+- 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
   
 - 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
