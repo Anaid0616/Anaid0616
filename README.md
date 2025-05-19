@@ -40,7 +40,7 @@ My journey with coding began during my first year at  the gymnasium, where I stu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-## 🚀 Projects
+## 🚀 My Projects
 - 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
   
