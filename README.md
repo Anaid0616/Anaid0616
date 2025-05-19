@@ -5,11 +5,11 @@
 💻 I’m currently studying **Front-End Development** at **Noroff**. I have a deep passion for the creative aspects of front-end development, where I can design, build, and bring visual beauty to life through code. Currently learning **Frameworks**. 
 
 🎨 I've always been a creative person, with a passion for drawing, painting, and creating. 
-My journey with coding began during my first year at  the gymnasium, where I studied HTML and CSS as part of an IT and sports program. Though I eventually switched to an economics track due to the new school's challenges, my interest in creativity remained strong, leading me to take extra courses in art and photography.
+My journey with coding began during my first year at high school, where I studied HTML and CSS as part of an IT and sports program. Though I eventually switched to an economics track due to the new school's challenges, my interest in creativity remained strong, leading me to take extra courses in art and photography.
 
-🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed since 2013 and I have hairdresser journeyman certificate and master hairdresser certificate. I've enjoyed bringing creativity to my work as a hairdresser for many years, but I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
+🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed and enjoyed bringing creativity to my work as a hairdresser for many years, but I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
 
-📸 In my free time, I love drawing and photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
+📸 In my free time, I love photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
 
 
 
