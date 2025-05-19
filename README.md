@@ -37,8 +37,6 @@ My journey with coding began during my first year at high school, where I studie
 </a>
 </p>
 
-<br>
-
 ## 🚀 My Projects
 
 - 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
