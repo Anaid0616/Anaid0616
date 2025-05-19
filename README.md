@@ -22,8 +22,12 @@ My journey with coding began during my first year at high school, where I studie
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
-### 📫 Get in Touch
+## 📫 Get in Touch
 <p>
 <a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
@@ -35,10 +39,6 @@ My journey with coding began during my first year at high school, where I studie
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
 
 ## 🚀 My Projects
 - 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
