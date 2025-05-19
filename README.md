@@ -4,8 +4,8 @@
 ## 🌟 About Me
 💻  I'm currently in my second year of **Front-End Development** at Noroff. I love the creative aspects of coding, where I can design, build, and bring visual beauty to life. We are studying **Frameworks**, I recently learned Tailwind and now started working with React. 
 
-🎨 I've always been a creative person, with a passion for drawing and creating. 
-My journey with coding began during my first year at high school, where I studied HTML and CSS as part of an IT and sports program. Though I eventually switched to an economics track, my interest in creativity remained strong, leading me to take extra courses in art and photography.
+🎨 I've always been a creative person, with a passion for drawing and creating, taking extra courses in art and photography. 
+My journey with coding began during my first year at high school, where I studied HTML and CSS as part of an IT and sports program.
 
 🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed and enjoyed bringing creativity to my work for many years, but I'm now ready for a new chapter. 
 
