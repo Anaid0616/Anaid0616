@@ -2,7 +2,7 @@
 
 
 ## 🌟 About Me
-💻 I’m currently studying **Front-End Development** at **Noroff**. I have a deep passion for the creative aspects of front-end development, where I can design, build, and bring visual beauty to life through code. Currently learning **Frameworks**. 
+💻 I’m currently studying my second year in **Front-End Development** at **Noroff**. I have a deep passion for the creative aspects of front-end development, where I can design, build, and bring visual beauty to life through code. Currently learning **Frameworks**. 
 
 🎨 I've always been a creative person, with a passion for drawing, painting, and creating. 
 My journey with coding began during my first year at high school, where I studied HTML and CSS as part of an IT and sports program. Though I eventually switched to an economics track due to the new school's challenges, my interest in creativity remained strong, leading me to take extra courses in art and photography.
