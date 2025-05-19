@@ -1,7 +1,7 @@
 # Hi there, I'm Diana Bergelin 👋
 
 
-### 🌟 About Me
+## 🌟 About Me
 💻 I’m currently studying **Front-End Development** at **Noroff**. I have a deep passion for the creative aspects of front-end development, where I can design, build, and bring visual beauty to life through code. Currently learning **Frameworks**. 
 
 🎨 I've always been a creative person, with a passion for drawing, painting, and creating. 
@@ -9,11 +9,11 @@ My journey with coding began during my first year at  the gymnasium, where I stu
 
 🎓 After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed since 2013 and I have hairdresser journeyman certificate and master hairdresser certificate. I've enjoyed bringing creativity to my work as a hairdresser for many years, but I'm now ready for a new chapter. Rediscovering my love for  HTML  and CSS led me to pursue front-end development at Noroff. 
 
-📸 In my free time, I love drawing, photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
+📸 In my free time, I love photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family, friends, and my cats.
 
 
 
-### Skills & Tools 🛠️
+## Skills & Tools 🛠️
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -40,7 +40,7 @@ My journey with coding began during my first year at  the gymnasium, where I stu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-### 🚀 Projects
+## 🚀 Projects
 - 🎮 **[Cross-Course Project: GameHub](https://github.com/Anaid0616/cross-course-project-design-html-css)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
   
