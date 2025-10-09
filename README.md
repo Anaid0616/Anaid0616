@@ -43,7 +43,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
   - A social media app with CRUD features, user interactions, and emoji reactions.
 
 - 🏦 **[Semester Project 2: Auction House](https://sp2-auctionhouse.netlify.app/)**  
-  - Auction website built with HTML, CSS, Tailwind and JavaScript. Users can filter listings, view bidding history, and place bids on other users' auctions.
+  - Auction website where users can filter listings, view bidding history, and place bids on other users' auctions.
  
 - ✏️ **[Project Exam: Deleine Hairstudio](https://deleine-blog.netlify.app/)**
   - A blogsite for a fictional client that allows users to register, login, create, update and delete blog posts.
@@ -62,9 +62,8 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 <a href="mailto:diana.bergelin@live.se">
   <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
 </a>
-    <a href="(https://anaid0616.github.io/dianabergelinportfolio/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" title="Portfolio" alt="Portfolio" height="42" style="margin: 0 10px;" />
-  </a>
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anaid0616.github.io/dianabergelinportfolio/)
+
 </p>
 
 
