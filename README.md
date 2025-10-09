@@ -9,8 +9,6 @@ Outside of tech, I’m a creative soul who enjoys photography, interior design, 
 I’m now looking for **junior front-end opportunities** where I can grow and contribute 
 
 
-## Skills & Tools 🛠️
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -28,7 +26,6 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="42" style="margin: 0 8px;" />
 </p>
 
- 
 
 ## GitHub Stats
     
@@ -57,7 +54,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 - 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
 
- ## 📫 Get in Touch
+ ## Get in Touch
 <p>
 <a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
@@ -66,7 +63,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
   <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
 </a>
     <a href="(https://anaid0616.github.io/dianabergelinportfolio/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/netlify.svg" title="Portfolio" alt="Portfolio" height="42" style="margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" title="Portfolio" alt="Portfolio" height="42" style="margin: 0 10px;" />
   </a>
 </p>
 
