@@ -30,7 +30,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 ## 📈 GitHub Stats
     
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=tokyonight&hide_border=true" height="145"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
