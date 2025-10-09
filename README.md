@@ -1,13 +1,12 @@
 # Hi there, I'm Diana Bergelin 👋
 
 
-## 🌟 About Me
-💻  I'm a Front-End Developer soon graduating from **Front-End Development Noroff School of Technology and Digital Media**. I love the creative aspects of coding, where I can design, build, and bring visual beauty to life. We are studying **Frameworks**, I recently learned Tailwind and now started working with React. 
+🎨 **Front-End Developer** passionate about building beautiful, accessible and user-focused digital experiences.  
+🎓 Recently graduated from **Noroff School of Technology and Digital Media (Front-End Development, 2023–2025)**.  
+💡 I love combining design and code — creating smooth interfaces with clean, maintainable code.  
 
-🎓 My journey with coding began during my first year at high school, where I studied HTML and CSS as part of an IT and sports program. After graduating I sought out creative careers and found my way into hairdressing—a profession where I could express my artistic side. I been self-employed and enjoyed bringing creativity to my work for many years, but I'm now ready for a new chapter. 
-
-🎨📸 I've always been a creative person, with a passion for drawing and creating. In my free time, I love photography, interior design and home projects. I also enjoy listening to music, strength training, and spending time with family and friends.
-
+Outside of tech, I’m a creative soul who enjoys photography, interior design, house projects and illustration.  
+I’m now looking for **junior front-end opportunities** where I can grow and contribute 
 
 
 ## Skills & Tools 🛠️
@@ -23,20 +22,20 @@
 
 ## GitHub Stats
     
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-## 🚀 My Projects
+## My Projects
 
 - 🛍️ **[React Ecom Store: Vibity](https://vibitystore.netlify.app/)**  
   - An react eCommerce store with product search filtering, Zustand cart state, and checkout.
 
-- **[Pixly (Social Media App)](https://pixly-js2.netlify.app/)**
+- 💬 **[Pixly (Social Media App)](https://pixly-js2.netlify.app/)**
   - A social media app with CRUD features, user interactions, and emoji reactions.
 
-- 🛎️ **[Semester Project 2: Auction House](https://sp2-auctionhouse.netlify.app/)**  
+- 🏦 **[Semester Project 2: Auction House](https://sp2-auctionhouse.netlify.app/)**  
   - Auction website built with HTML, CSS, Tailwind and JavaScript. Users can filter listings, view bidding history, and place bids on other users' auctions.
  
 - ✏️ **[Project Exam: Deleine Hairstudio](https://deleine-blog.netlify.app/)**
@@ -50,11 +49,9 @@
 
  ## 📫 Get in Touch
 <p>
-<a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-</a>&nbsp;
-<a href="mailto:diana.bergelin@live.se">
-  <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
-</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-b-4209a72ba/)
+[![Email](https://img.shields.io/badge/Email-diana.bergelin@live.se-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.bergelin@live.se)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://anaid0616.github.io/dianabergelinportfolio/)
 </p>
 
