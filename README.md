@@ -48,7 +48,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
 
  ## 📫 Get in Touch
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>&nbsp;
