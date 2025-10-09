@@ -1,4 +1,4 @@
-# Hi there, I'm Diana Bergelin 👋
+# Hi there, I'm Diana Bergelin �
 
 
 🎨 **Front-End Developer** passionate about building beautiful, accessible and user-focused digital experiences.  
@@ -27,14 +27,14 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 </p>
 
 
-## GitHub Stats
+## 📈 GitHub Stats
     
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-## My Projects
+## ✨ My Projects
 
 - 🛍️ **[React Ecom Store: Vibity](https://vibitystore.netlify.app/)**  
   - An react eCommerce store with product search filtering, Zustand cart state, and checkout.
@@ -54,16 +54,19 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 - 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
 
- ## Get in Touch
-<p>
-<a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-</a>&nbsp;
-<a href="mailto:diana.bergelin@live.se">
-  <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
-</a>
-[![Portfolio - GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://anaid0616.github.io/dianabergelinportfolio/)
+ ## 🔗 Get in Touch
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/diana-b-4209a72ba/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin:0 10px;" />
+  </a>
+  <a href="mailto:diana.bergelin@live.se">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" height="40" style="margin:0 10px;" />
+  </a>
+  <a href="https://anaid0616.github.io/dianabergelinportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio - GitHub Pages" height="28" style="margin:0 10px; vertical-align:middle;" />
+  </a>
 </p>
+
 
 
