@@ -21,15 +21,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
-
-## 📫 Get in Touch
+## GitHub Stats
+    
 <p>
-<a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-</a>&nbsp;
-<a href="mailto:diana.bergelin@live.se">
-  <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ## 🚀 My Projects
@@ -51,10 +47,14 @@
  
 - 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
- 
-## GitHub Stats
-    
+
+ ## 📫 Get in Touch
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+<a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+</a>&nbsp;
+<a href="mailto:diana.bergelin@live.se">
+  <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
+</a>
 </p>
+
