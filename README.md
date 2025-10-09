@@ -21,10 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
 
 ## 📫 Get in Touch
 <p>
@@ -40,15 +36,24 @@
 
 - 🛍️ **[React Ecom Store: Vibity](https://vibitystore.netlify.app/)**  
   - An react eCommerce store with product search filtering, Zustand cart state, and checkout.
+ 
+    
 
 - 🛎️ **[Semester Project 2: Auction House](https://semester-project2-diana.netlify.app/)**  
   - Auction website built with HTML, CSS, Tailwind and JavaScript. Users can filter listings, view bidding history, and place bids on other users' auctions.
-
-- 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
-  - A responsive gaming store that allows users to browse, filter, and add games to their cart.
-  
-- 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
-  - A website for a fictional museum aimed at children, with interactive and educational exhibits.
  
 - ✏️ **[Project Exam: Deleine Hairstudio](https://anaid0616.github.io/project-exam1/)**
-  - A blogsite for a fictional client that allows users to register, login, create, update and delete blog posts. 
+  - A blogsite for a fictional client that allows users to register, login, create, update and delete blog posts.
+ 
+  - - 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
+  - A website for a fictional museum aimed at children, with interactive and educational exhibits.
+ 
+- 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
+  - A responsive gaming store that allows users to browse, filter, and add games to their cart.
+ 
+## GitHub Stats
+    
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anaid0616&show_icons=true&theme=radical" alt="Diana's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaid0616&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
