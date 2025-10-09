@@ -1,4 +1,4 @@
-# Hi there, I'm Diana Bergelin �
+# Hi there, I'm Diana Bergelin 
 
 
 🎨 **Front-End Developer** passionate about building beautiful, accessible and user-focused digital experiences.  
