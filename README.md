@@ -48,10 +48,13 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
   - A responsive gaming store that allows users to browse, filter, and add games to their cart.
 
  ## 📫 Get in Touch
-<p>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diana-b-4209a72ba/)
-[![Email](https://img.shields.io/badge/Email-diana.bergelin@live.se-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diana.bergelin@live.se)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white)](https://anaid0616.github.io/dianabergelinportfolio/)
+<p align="center">
+<a href="https://www.linkedin.com/in/diana-b-4209a72ba/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+</a>&nbsp;
+<a href="mailto:diana.bergelin@live.se">
+  <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
+</a>
 </p>
+
 
