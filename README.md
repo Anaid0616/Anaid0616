@@ -62,7 +62,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 <a href="mailto:diana.bergelin@live.se">
   <img src="https://img.icons8.com/material-rounded/344/new-post.png" title="Email" alt="Email" width="40" height="40"/>
 </a>
-[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anaid0616.github.io/dianabergelinportfolio/)
+[![Portfolio - GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://anaid0616.github.io/dianabergelinportfolio/)
 
 </p>
 
