@@ -43,7 +43,7 @@
 - 🛎️ **[Semester Project 2: Auction House](https://sp2-auctionhouse.netlify.app/)**  
   - Auction website built with HTML, CSS, Tailwind and JavaScript. Users can filter listings, view bidding history, and place bids on other users' auctions.
  
-- ✏️ **[Project Exam: Deleine Hairstudio](https://anaid0616.github.io/project-exam1/)**
+- ✏️ **[Project Exam: Deleine Hairstudio](https://deleine-blog.netlify.app/)**
   - A blogsite for a fictional client that allows users to register, login, create, update and delete blog posts.
 
 - 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
