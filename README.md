@@ -36,16 +36,17 @@
 
 - 🛍️ **[React Ecom Store: Vibity](https://vibitystore.netlify.app/)**  
   - An react eCommerce store with product search filtering, Zustand cart state, and checkout.
- 
-    
+
+  - **[Pixly (Social Media App)](https://pixly-js2.netlify.app/)**
+  - A social media app with CRUD features, user interactions, and emoji reactions.
 
 - 🛎️ **[Semester Project 2: Auction House](https://semester-project2-diana.netlify.app/)**  
   - Auction website built with HTML, CSS, Tailwind and JavaScript. Users can filter listings, view bidding history, and place bids on other users' auctions.
  
 - ✏️ **[Project Exam: Deleine Hairstudio](https://anaid0616.github.io/project-exam1/)**
   - A blogsite for a fictional client that allows users to register, login, create, update and delete blog posts.
- 
-  - - 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
+
+   - 🧪 **[Semester Project: Stockholm Science Museum](https://anaid0616.github.io/semester-project-diana-bergelin/)**
   - A website for a fictional museum aimed at children, with interactive and educational exhibits.
  
 - 🎮 **[Cross-Course Project: GameHub](https://anaid0616.github.io/cross-course-project-design-html-css/)**
