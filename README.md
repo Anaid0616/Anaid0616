@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1b2735&height=180&section=header&text=Diana%20Bergelin&fontSize=40&fontColor=ffffff" />
 # Hi there, I'm Diana Bergelin 🪄
 <img align="right" src="https://komarev.com/ghpvc/?username=Anaid0616&label=Profile%20Views&color=0b84ff&style=flat-square" />
 
