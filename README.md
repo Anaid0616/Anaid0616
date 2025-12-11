@@ -2,7 +2,7 @@
 
 
 🎨 **Front-End Developer** passionate about building beautiful, accessible and user-focused digital experiences.  
-🎓 Soon to be graduated from **Noroff School of Technology and Digital Media (Front-End Development, 2023–2025)**.  
+🎓 Graduated from **Noroff School of Technology and Digital Media (Front-End Development, 2023–2025)**.  
 💡 I love combining design and code — creating smooth interfaces with clean, maintainable code.  
 
 Outside of tech, I’m a creative soul who enjoys photography, interior design, house projects and illustration.  
