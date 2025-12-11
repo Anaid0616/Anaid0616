@@ -1,4 +1,5 @@
 # Hi there, I'm Diana Bergelin 🪄
+<img align="right" src="https://komarev.com/ghpvc/?username=Anaid0616&label=Profile%20Views&color=0b84ff&style=flat-square" />
 
 
 🎨 **Front-End Developer** passionate about building beautiful, accessible and user-focused digital experiences.  
@@ -68,11 +69,6 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
   </a>
 </p>
 
- ## 
- 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anaid0616&style=for-the-badge&color=blue" />
-</p>
 
 
 
