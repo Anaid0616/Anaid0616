@@ -67,6 +67,10 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
     <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio - GitHub Pages" height="28" style="margin:0 10px; vertical-align:middle;" />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anaid0616&style=for-the-badge&color=blue" />
+</p>
+
 
 
 
