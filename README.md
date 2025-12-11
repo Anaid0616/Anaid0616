@@ -1,5 +1,5 @@
 # Hi there, I'm Diana Bergelin 🪄
-<img align="right" src="https://komarev.com/ghpvc/?username=Anaid0616&label=Profile%20Views&color=0b84ff&style=flat-square" />
+<img align="right" src="https://komarev.com/ghpvc/?username=Anaid0616&label=Profile%20Views&color=7dd3fc&style=for-the-badge" />
 
 
 🎨 **Front-End Developer** passionate about building beautiful, accessible and user-focused digital experiences.  
