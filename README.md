@@ -37,7 +37,7 @@ I’m now looking for **junior front-end opportunities** where I can grow and co
 
 ## ✨ My Projects
 
-- 🧳 **[Holidaze travels](https://holidazetravels.netlify.app/)**  
+- 🧳 **[Holidaze Travels](https://holidazetravels.netlify.app/)**  
   - A travel booking website where users can browse holiday stays, view details, filter options, and plan their perfect trip.
 
 - 🛍️ **[React Ecom Store: Vibity](https://vibitystore.netlify.app/)**  
